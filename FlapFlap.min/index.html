@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8" />
+    <title>Flap Flap</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+        <meta name="format-detection" content="telephone=no">
+        
+        <link rel="apple-touch-icon" href="assets/img/icon.png"/>
+
+    <style>
+        body {
+            background: #666;
+            margin: 0;
+            padding: 0;
+        }
+        
+        #game {
+            size
+            margin: 0;
+            margin-top: 0;
+            max-height:screen.height;
+            max-width:screen.width;
+            position: relative;
+            overflow: hidden;
+        }
+    </style>
+    
+    <script type="text/javascript" src="src/phaser.min.js"></script>
+    <script type="text/javascript" src="src/states/load.js"></script>
+    <script type="text/javascript" src="src/states/opt.js"></script>
+    <script type="text/javascript" src="src/states/menu.js"></script>
+    <script type="text/javascript" src="src/states/play.js"></script>
+    <script type="text/javascript">
+        var game = new Phaser.Game(276, 490, Phaser.AUTO, 'game');  // Initialize Phaser //276 //490
+
+        var score = 0;  // Our 'score' global variable
+        var speed = 200;    //sets how fast the game moves
+        var theme = 'doge'; //theme
+        
+        // Define all the states
+        game.state.add('load', load_state);
+        game.state.add('opt', opt_state);
+        game.state.add('menu', menu_state);  
+        game.state.add('play', play_state);
+        
+        // Start with the 'load' state
+        game.state.start('load');
+    </script>
+</head>
+
+<body>
+    <audio autoplay loop>
+        <source src="assets/sound/gameMusic.mp3" type="audio/mpeg">
+        <source src="assets/sound/gameMusic.ogg" type="audio/ogg">
+    </audio>
+    
+    <div id="game"></div>
+
+</body>
+
+</html>
