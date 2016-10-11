@@ -1,0 +1,16 @@
+Package: com.hax0rdoge.webscrollin
+Version: 1.0-1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.hax0rdoge.webscrollin_1.0-1_iphoneos-arm.deb
+Size: 3592
+MD5sum: 52f5f40ed582e273e138f2fee231b38d
+SHA1: 6697d1e71eb703ccb5666888dadd03d5d118e7e3
+SHA256: 0976b2223cc725ee9d21ed1a26dec0c44b6b934fafdca4d7866c74f89cdf3cb3
+Section: Tweaks
+Description: Speed up your Safari scrolling.
+Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
+Name: WebScrollin
+

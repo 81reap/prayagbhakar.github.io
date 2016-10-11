@@ -1,0 +1,8 @@
+Origin: Hax0rDoge's Repo
+Label: An extremely fruity repo
+Suite: stable
+Version: 0.0
+Codename: Fruity
+Architectures: iphoneos-arm
+Components: main
+Description: A Repository by Hax0rDoge
