@@ -1,9 +1,11 @@
 #!/bin/bash
 set -x #echo on
 
-dpkg-scanpackages ./repo/debs ./repo > ./repo/Packages
-bzip2 -fks ./repo/Packages
+cd ./repo
+dpkg-scanpackages debs / > Packages
+bzip2 -fks Packages
 
+cd ..
 git add ./repo/*
 git commit -m "Updated repo"
 git push

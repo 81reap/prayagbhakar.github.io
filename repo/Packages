@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./repo/debs/com.hax0rdoge.webscrollin_1.1-1_iphoneos-arm.deb
+Filename: debs/com.hax0rdoge.webscrollin_1.1-1_iphoneos-arm.deb
 Size: 3120
 MD5sum: 4a58a444e2932cc2606c149a3d257f33
 SHA1: feeee04ee40ed4a9cc261534ae685a5e4d508799
