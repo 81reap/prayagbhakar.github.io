@@ -17,6 +17,7 @@ update-repo.sh is an excutable so you cant see the commands it runs easily but h
 
 ```shell
 #Updates Pacakge
+rm Packages{,.bz2}
 dpkg-scanpackages -m debs / > Packages
 bzip2 -fks Packages
 
