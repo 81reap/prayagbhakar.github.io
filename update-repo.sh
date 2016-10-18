@@ -2,7 +2,8 @@
 set -x #echo on
 
 cd ./repo
-dpkg-scanpackages debs / > Packages
+
+dpkg-scanpackages -m debs / > Packages
 bzip2 -fks Packages
 
 cd ..
