@@ -17,4 +17,6 @@ Holds a cydia repo with :
 
 ### FlappyBird Clone
 
-This is just an old clone that I made using pazer.js. I have this hosted for one of the classes that I teach.
+https://hax0rdoge.github.io/FlapFlap.min/
+
+This is just an old clone that I made using pazer.js and HTML for mobile devices. I have it hosted for one of the classes that I teach.
