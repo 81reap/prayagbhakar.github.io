@@ -1,3 +1,19 @@
+Package: com.hax0rdoge.onekey
+Version: 1.O-1
+Architecture: iphoneos-arm
+Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/com.hax0rdoge.onekey_1.O-1_iphoneos-arm.deb
+Size: 3154
+MD5sum: f5713452df337b5407888c6bdf858ea3
+SHA1: 6f465c4e7f96a41b0cef9a3f704e51ca73770b3d
+SHA256: 796a3cc24da8581c9f63e93c3738c219ce43e5da2b1b7568a909f72d38f91da4
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
+Name: OneKey
+
 Package: com.hax0rdoge.webscrollin
 Version: 1.1-2
 Architecture: iphoneos-arm
