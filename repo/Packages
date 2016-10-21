@@ -1,16 +1,16 @@
 Package: com.hax0rdoge.onekey
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: debs/com.hax0rdoge.onekey_1.0-1_iphoneos-arm.deb
+Filename: debs/com.hax0rdoge.onekey_1.0-2_iphoneos-arm.deb
 Size: 3156
-MD5sum: 785cbe9fd296e34428a15291b3142d04
-SHA1: 88f6eb3703b8ee3103a511dace2682bd6cc91287
-SHA256: 9b79ec5071e415acfcd787d2a9db0cc4f75fae8c709cf8b9fdfec09c5a9a58af
+MD5sum: 2a231c221108550ebea9017e6001411b
+SHA1: f9e2e6796b6881ea3127174104b1bde2793b91d4
+SHA256: 837d1acd0fa95494d52194b0debe3c700d0cc6b5d4ba0073db3993b4b7dc6d2e
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Enable one hand keyboard buttons
 Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
 Name: OneKey
 
