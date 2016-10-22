@@ -1,46 +1,14 @@
 Package: com.hax0rdoge.onehanded
-Version: 1.0-1
-Architecture: iphoneos-arm
-Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: debs/com.hax0rdoge.onehanded_1.0-1_iphoneos-arm.deb
-Size: 1574
-MD5sum: 4248bafbed62f367642d9519a632b02e
-SHA1: 1c5643448f9e2b6a31c797c3925c769b22319fa9
-SHA256: 2dee56ccac280ce52910aa0b429e3c8616a712bd3230c2eaab9486707d4ec973
-Section: Tweaks
-Description: Enables built-in one-handed keyboard. Swipe to enable.
-Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
-Name: OneHanded
-
-Package: com.hax0rdoge.onehanded
-Version: 1.0-2+debug
+Version: 1.1-1
 Architecture: iphoneos-arm
 Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: debs/com.hax0rdoge.onehanded_1.0-2+debug_iphoneos-arm.deb
-Size: 3638
-MD5sum: 767f69bf659716bde2dd6fe38572d9d6
-SHA1: 111c338747422b8a40ff5978b1e0f6c2169c23c3
-SHA256: b6914d61b5b5f0657cc7bc0dab8c8d1e913c41725287eb460522cff5cde85c2c
-Section: Tweaks
-Description: Enables built-in one-handed keyboard. Swipe to enable.
-Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
-Name: OneHanded
-
-Package: com.hax0rdoge.onehanded
-Version: 1.0-3+debug
-Architecture: iphoneos-arm
-Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
-Installed-Size: 200
-Depends: mobilesubstrate
-Filename: debs/com.hax0rdoge.onehanded_1.0-3+debug_iphoneos-arm.deb
-Size: 3632
-MD5sum: 335e6548ed9a2d6fb6c5be0975fe15d5
-SHA1: 848f676ecf8e9f3e9559ff524ca4653112224dd6
-SHA256: 72f174eb1ec915d8ca80a579b1a5529444828066bee76d5f029131536c28e555
+Filename: debs/com.hax0rdoge.onehanded_1.1-1_iphoneos-arm.deb
+Size: 3190
+MD5sum: 3efeec4be508ba2f61596d13902681a2
+SHA1: 4a2ab48406e9810d5537054a7bda31a2cc32b6bc
+SHA256: cf0773eea8aaf14590fd8679543d5688ec78e79220595669d010ca341e4f1b89
 Section: Tweaks
 Description: Enables built-in one-handed keyboard. Swipe to enable.
 Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
