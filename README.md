@@ -18,6 +18,6 @@ Holds a cydia repo with :
 
 ### FlappyBird Clone
 
-https://hax0rdoge.github.io/FlapFlap.min/
+https://hax0rdoge.github.io/FlapFlap/
 
 This is just an old clone that I made using pazer.js and HTML for mobile devices. I have it hosted for one of the classes that I teach.
