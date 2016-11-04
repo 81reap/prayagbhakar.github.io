@@ -14,7 +14,7 @@ https://hax0rdoge.github.io/repo
 
 Holds a cydia repo with :  
  - WebScrollin  
- - OneKey
+ - OneHanded
 
 ### FlappyBird Clone
 
