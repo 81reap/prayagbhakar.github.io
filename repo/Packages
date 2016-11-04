@@ -48,6 +48,23 @@ Description: Enables built-in one-handed keyboard. Swipe to enable.
 Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
 Name: OneHanded
 
+Package: com.hax0rdoge.onehanded
+Version: 1.1-4
+Architecture: iphoneos-arm
+Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Conflicts: onehanded
+Filename: debs/com.hax0rdoge.onehanded_1.1-4_iphoneos-arm.deb
+Size: 3202
+MD5sum: 949b660ae7ae80827f38f2ff78eed99e
+SHA1: f281945a18aae7c5a19aca6fc59291812d3820d7
+SHA256: eeb6b8785ff921554d11c9861411cf648424bc1ef771288138580c673e824bef
+Section: Tweaks
+Description: Enables built-in one-handed keyboard. Swipe to enable.
+Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
+Name: OneHanded
+
 Package: com.hax0rdoge.webscrollin
 Version: 1.1-2
 Architecture: iphoneos-arm
