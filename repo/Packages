@@ -16,17 +16,17 @@ Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
 Name: OneHanded
 
 Package: com.hax0rdoge.onehanded
-Version: 2.0-1
+Version: 2.1-1
 Architecture: iphoneos-arm
 Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
-Installed-Size: 344
+Installed-Size: 356
 Depends: mobilesubstrate
-Conflicts: com.fpt.onehanded
-Filename: debs/com.hax0rdoge.onehanded_2.0-1_iphoneos-arm.deb
-Size: 5680
-MD5sum: fcc15c1548daf96d20fb7c6dfff0e168
-SHA1: 2d4c6b44229f03209a8d1d02ba4b8b714c2043ee
-SHA256: f762c8559269c3251f50336b033e859626fd4e3a3827fe073a00aa5a301c2124
+Conflicts: com.fpt.onehanded, com.hax0rdoge.leo
+Filename: debs/com.hax0rdoge.onehanded_2.1-1_iphoneos-arm.deb
+Size: 10624
+MD5sum: d0b4e9c1061bcec4d4265471295ee0a3
+SHA1: 2ddf1b3dfda718d3f6345d34cb31d1c778421d4c
+SHA256: 6d71d6f1f7ac9c3829795cab625dc20b0968aad01914439a8beced4bcf0d6826
 Section: Tweaks
 Description: Enables built-in one-handed keyboard. Swipe to enable.
 Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
@@ -49,18 +49,19 @@ Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
 Name: WebScrollin
 
 Package: com.hax0rdoge.webscrollin
-Version: 2.0-4
+Version: 2.1-1
 Architecture: iphoneos-arm
 Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
-Installed-Size: 344
+Installed-Size: 356
 Depends: mobilesubstrate
-Filename: debs/com.hax0rdoge.webscrollin_2.0-4_iphoneos-arm.deb
-Size: 5452
-MD5sum: 2e98ab2dbbdff64aa0524197c0a08420
-SHA1: 04f54b89e4db886234823210d72f7750f77befa4
-SHA256: 60560c3a6e71e683f299422591b87591bd49876c15904b3e842e23efa6acdb8e
+Conflicts: com.hax0rdoge.leo
+Filename: debs/com.hax0rdoge.webscrollin_2.1-1_iphoneos-arm.deb
+Size: 10692
+MD5sum: ddb21837ad2f79a80389b4c40f19cab8
+SHA1: 28b6ae21d8bd7064c5046ea9e7932a5405169c3b
+SHA256: 0c500ef8683c51c0e68e3f83b40f4b547cba59a33247e5748127213a1fc0a043
 Section: Tweaks
-Description: Speed up your Safari scrolling.
+Description: Speed up your web content scrolling.
 Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
 Name: WebScrollin
 
