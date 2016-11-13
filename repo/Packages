@@ -1,0 +1,51 @@
+Package: com.hax0rdoge.onehanded
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
+Installed-Size: 356
+Depends: mobilesubstrate
+Conflicts: com.fpt.onehanded, com.hax0rdoge.leo
+Filename: debs/com.hax0rdoge.onehanded_1.0-1_iphoneos-arm.deb
+Size: 10632
+MD5sum: 27f1b23395e5f32d6cbbcceb1a9e1fb1
+SHA1: 7e3a9c4489086c57bb924a39044101bb62d486b4
+SHA256: a6c83b250665aad8e86dc5696b0c5501d64bb5447b64a2132ec2061a6b384406
+Section: Tweaks
+Description: Enables built-in one-handed keyboard. Swipe to enable.
+Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
+Name: OneHanded
+
+Package: com.hax0rdoge.slidetounlock
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
+Installed-Size: 352
+Depends: mobilesubstrate
+Conflicts: com.hax0rdoge.leo
+Filename: debs/com.hax0rdoge.slidetounlock_1.0-1_iphoneos-arm.deb
+Size: 8526
+MD5sum: 9890505660ecb9497a7cd1d78b086ccf
+SHA1: a346b736d6b56ead393c77fa565f61571a6c97f7
+SHA256: cc044b261adfcbd592d18b2013fe7b6073601815e20aade1531ffa1ec46ea858
+Section: Tweaks
+Description: Change "slide to unlock" text on the lock screen.
+Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
+Name: SlideToUnlock
+
+Package: com.hax0rdoge.webscrollin
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
+Installed-Size: 356
+Depends: mobilesubstrate
+Conflicts: com.hax0rdoge.leo, com.chpwn.webscrollian, net.tateu.webscrollian
+Filename: debs/com.hax0rdoge.webscrollin_1.0-1_iphoneos-arm.deb
+Size: 10716
+MD5sum: b9fabc7dd2b47b3bc17309e267ae55c1
+SHA1: 3ea01c6268181506426654f7d738cd82b802af0a
+SHA256: b81a86bf0960f4c4d2900c3d46433bcd30d9e9da0aaafc26a255d488ab7cf986
+Section: Tweaks
+Description: Speed up your web content scrolling.
+Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
+Name: WebScrollin
+
