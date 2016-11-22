@@ -49,6 +49,23 @@ Description: Change "slide to unlock" text on the lock screen.
 Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
 Name: SlideToUnlock
 
+Package: com.hax0rdoge.slidetounlock
+Version: 2.0-1
+Architecture: iphoneos-arm
+Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
+Installed-Size: 352
+Depends: mobilesubstrate
+Conflicts: com.hax0rdoge.leo
+Filename: debs/com.hax0rdoge.slidetounlock_2.0-1_iphoneos-arm.deb
+Size: 9252
+MD5sum: 0747ff6c1212ed1ace927650b60aba4d
+SHA1: 50b16e0f889c091128996d269dfa0151cc5619b7
+SHA256: 46869b454af27067e6bddba38e3426f52b9ec1ce636c4f4f8d28db95031f908f
+Section: Tweaks
+Description: Change "slide to unlock" text on the lock screen.
+Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
+Name: SlideToUnlock
+
 Package: com.hax0rdoge.webscrollin
 Version: 1.0-1
 Architecture: iphoneos-arm
