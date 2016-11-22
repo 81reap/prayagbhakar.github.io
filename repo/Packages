@@ -66,3 +66,37 @@ Description: Speed up your web content scrolling.
 Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
 Name: WebScrollin
 
+Package: com.hax0rdoge.webscrollin
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
+Installed-Size: 352
+Depends: mobilesubstrate
+Conflicts: com.hax0rdoge.leo, com.chpwn.webscrollian, net.tateu.webscrollian
+Filename: debs/com.hax0rdoge.webscrollin_1.1-1_iphoneos-arm.deb
+Size: 8356
+MD5sum: c391228cca645a0d1a4aafd77ecab0b8
+SHA1: af5ba118f9189c66718341945b9e58c4737d1ae6
+SHA256: 133f5034338b434eb816955d5d1e4cf656e7dc637cff82f8ebee30d89b31db18
+Section: Tweaks
+Description: Speed up your web content scrolling.
+Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
+Name: WebScrollin
+
+Package: com.hax0rdoge.webscrollin
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
+Installed-Size: 352
+Depends: mobilesubstrate
+Conflicts: com.hax0rdoge.leo, com.chpwn.webscrollian, net.tateu.webscrollian
+Filename: debs/com.hax0rdoge.webscrollin_1.2-1_iphoneos-arm.deb
+Size: 8350
+MD5sum: fb0f4255405eaf416b07fbdb5bc0cc7b
+SHA1: 24c8b89648d2d77591696454de826eab744784ec
+SHA256: 8d10c5a8a9a0394a7327ca3dbf276d94ec1d5e6d54ede6ea031a4bc0241d086d
+Section: Tweaks
+Description: Speed up your web content scrolling.
+Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
+Name: WebScrollin
+
