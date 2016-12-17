@@ -134,3 +134,20 @@ Description: Speed up your web content scrolling.
 Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
 Name: WebScrollin
 
+Package: com.hax0rdoge.webscrollin
+Version: 1.3-1
+Architecture: iphoneos-arm
+Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
+Installed-Size: 352
+Depends: mobilesubstrate
+Conflicts: com.hax0rdoge.leo, com.chpwn.webscrollian, net.tateu.webscrollian
+Filename: debs/com.hax0rdoge.webscrollin_1.3-1_iphoneos-arm.deb
+Size: 8368
+MD5sum: dd4ac9bed4244afd1a9b527f8dd9f13d
+SHA1: 375f8f3719d955aaca2ea2f80e102245c1f271a8
+SHA256: 461a76239aabe579ded6238920c690dc437deb423ecfa7257e5c77c598dfce22
+Section: Tweaks
+Description: Speed up your web content scrolling.
+Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
+Name: WebScrollin
+
