@@ -13,8 +13,10 @@ More to come
 https://hax0rdoge.github.io/repo
 
 Holds a cydia repo with :  
- - WebScrollin  
  - OneHanded
+ - SameStatus
+ - SlideToUnlock
+ - WebScrollin
 
 ### FlappyBird Clone
 
