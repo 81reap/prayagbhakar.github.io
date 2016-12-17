@@ -15,6 +15,23 @@ Description: Enables built-in one-handed keyboard. Swipe to enable.
 Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
 Name: OneHanded
 
+Package: com.hax0rdoge.samestatus
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Prayag Bhakar <p.bhakar.work@gmail.com>
+Installed-Size: 352
+Depends: mobilesubstrate
+Conflicts: com.hax0rdoge.leo
+Filename: debs/com.hax0rdoge.samestatus_1.0-1_iphoneos-arm.deb
+Size: 8352
+MD5sum: 3afbd73e485748b126b35ac2f5523e39
+SHA1: 24a4671b3b9c4842c975372ecf675eb5a8214a94
+SHA256: ae9bad33e1ac2f66d7f0d40a36acbf3b4ddd400b6fc4e8eb9a0cf18d240e49fc
+Section: Tweaks
+Description: Changes the size of the lockscreen statusbar to match the one on the homescreen.
+Author: Prayag Bhakar (Hax0rDoge) <p.bhakar.work@gmail.com>
+Name: SameStatus
+
 Package: com.hax0rdoge.slidetounlock
 Version: 1.0-1
 Architecture: iphoneos-arm
